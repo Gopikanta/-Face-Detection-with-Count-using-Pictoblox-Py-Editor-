@@ -1,4 +1,5 @@
 👤 Face Detection with Count using Pictoblox (Py Editor)
+
 📌 Overview
 
 This project uses Pictoblox’s Python Editor with the Face Detection extension to detect faces in real-time through a webcam.
@@ -17,6 +18,7 @@ Handles cases when the camera is not ready
 🛠️ Requirements
 
 Pictoblox
+
  (Py Editor mode)
 
 Face Detection extension enabled
